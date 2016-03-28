@@ -1,2 +1,3 @@
 # hello-world
-Hello world repository
+Hi there,
+I would like to be part of github community of developers.
